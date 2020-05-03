@@ -17,6 +17,10 @@ main {
     max-width: 750px;
 }
 
+form.input{
+    color: black;
+}
+
 img {
     max-width: 100%;
 }

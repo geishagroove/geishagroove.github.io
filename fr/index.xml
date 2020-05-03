@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>/accueil</title>
-    <link>https://geishagroove.github.io/</link>
-    <description>Recent content on /accueil</description>
+    <title>Geisha Groove</title>
+    <link>https://geishagroove.github.io/fr/</link>
+    <description>Recent content on Geisha Groove</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 29 Oct 2019 14:25:02 +0100</lastBuildDate>
     
-	<atom:link href="https://geishagroove.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geishagroove.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Medias</title>
-      <link>https://geishagroove.github.io/medias/</link>
+      <link>https://geishagroove.github.io/fr/medias/</link>
       <pubDate>Tue, 29 Oct 2019 11:04:00 +0100</pubDate>
       
-      <guid>https://geishagroove.github.io/medias/</guid>
+      <guid>https://geishagroove.github.io/fr/medias/</guid>
       <description>      </description>
     </item>
     
     <item>
       <title>À propos de Geisha Groove</title>
-      <link>https://geishagroove.github.io/about/</link>
+      <link>https://geishagroove.github.io/fr/about/</link>
       <pubDate>Tue, 29 Oct 2019 11:03:37 +0100</pubDate>
       
-      <guid>https://geishagroove.github.io/about/</guid>
+      <guid>https://geishagroove.github.io/fr/about/</guid>
       <description>Geisha Groove Evenementiel c’est:  Un collectif féminin pour animer musicalement tous vos événements tels que mariages, anniversaires, CE, réceptions et autres. Du savoir faire musical et l’experience de la scène Des musiciennes professionelles et talentueuses Un répertoire varié pour le plaisir des oreilles de toutes les générations Du matériel de qualité (sono, instruments, etc.)  Plusieurs formules sont proposées avec 2, 3 ou 4 musiciennes, au choix:  Formules Cocktail Acoustique (de 45 minutes à 1h15) - Duo, Trio ou Quartet Formule Cocktail Amplifié (de 45 minutes à 1h15) - Duo, Trio ou Quartet Formule Jazz Instrumental (de 45 minutes à 1h30) - Duo, Trio, ou Quartet Formule Jazz vocal (de 45 minutes à 1h) - Duo, Trio ou Quartet Formule Party (de 45 minutes à 1h30) - Trio ou Quartet Formule Musique Traditionnelle Réunionnaise (Maloya) (de 45 minutes à 1h) - Duo, Trio ou Quartet  Facturation: GUSO ou bien chèque ou virement à Imago Records &amp;amp; Productions.</description>
     </item>
     
     <item>
       <title>Accueil</title>
-      <link>https://geishagroove.github.io/accueil/</link>
+      <link>https://geishagroove.github.io/fr/accueil/</link>
       <pubDate>Tue, 29 Oct 2019 11:03:32 +0100</pubDate>
       
-      <guid>https://geishagroove.github.io/accueil/</guid>
+      <guid>https://geishagroove.github.io/fr/accueil/</guid>
       <description>Geisha Groove est une expérience unique en son genre. C&amp;rsquo;est un trio Soul / Funk au féminin débordant de savoir faire et d&amp;rsquo;arrangements fins et sublimés par des interprétations actuelles de grands classiques. Ce projet est mené par trois excellentes musiciennes venant de la Réunion, de la Corse et des Philippines qui sont capables de vous faire danser à tout moment. Le trio peut soit être en version soft ou bien version plus lourde, avec batterie, basse et claviers pour plus de bonheur sur le dancefloor.</description>
     </item>
     

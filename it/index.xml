@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/it/accueil</title>
+    <link>https://geishagroove.github.io/it/</link>
+    <description>Recent content on /it/accueil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 29 Oct 2019 14:25:02 +0100</lastBuildDate>
+    
+	<atom:link href="https://geishagroove.github.io/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medias</title>
+      <link>https://geishagroove.github.io/it/medias/</link>
+      <pubDate>Tue, 29 Oct 2019 11:04:00 +0100</pubDate>
+      
+      <guid>https://geishagroove.github.io/it/medias/</guid>
+      <description>      </description>
+    </item>
+    
+    <item>
+      <title>À propos de Geisha Groove</title>
+      <link>https://geishagroove.github.io/it/about/</link>
+      <pubDate>Tue, 29 Oct 2019 11:03:37 +0100</pubDate>
+      
+      <guid>https://geishagroove.github.io/it/about/</guid>
+      <description>GEISHA GROOVE Vi PROPONE:  Un collettivo di musiciste per animare tutti i vostri eventi, matrimoni, compleanni, eventi aziendali, ricevimenti etc… Eccezionale competenza musicale e esperienza scenica Musiciste professionali e talentuosi Repertorio vario per soddisfare i gusti di tutte le generazioni Impianto Audio di alta qualitá (Sistema Audio et strumenti musicali)  Vi proponiamo dei formati diversi per la vosta serata, con due, tre o quattro musiciste:  Formula Cocktail Acoustico ( 45min à 1h15 ) - Duo, Trio o Quartetto Formula Cocktail Amplificato ( 45min à 1h15 ) - Duo, Trio o Quartetto Formula Jazz instrumentale ( 45min à 1h30 ) - Duo, Trio o Quartetto Formula Jazz Vocale ( 45min à 1h ) - Duo, Trio o Quartetto Formula Party ( 45min à 1h30 ) - Duo, Trio o Quartetto Formula Musica Tradizionale de l’Isola de la Reunion (Maloya) ( 45min à 1h ) - Duo, Trio o Quartetto  Fatturazione: GUSO, cheque oppure un trasferimento bancario à Imago Records &amp;amp; Productions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geishagroove.github.io/it/accueil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geishagroove.github.io/it/accueil/</guid>
+      <description>accueil.fr.md&amp;mdash; title: &amp;ldquo;Accueil&amp;rdquo; date: 2019-10-29T11:03:32+01:00
+draft: false Geisha Groove è un esperienza unico nel suo genere. È un trio Soul / Funk femminile che presenta una raffinatezza nei loro arrangiamenti musicali et un colore moderno dei nostri grandi classici preferiti. Questo progetto, intrapreso da tre musiciste eccellenti, provenienti da l’Isola de la Reunion, la Corsica, e le Filippine, vi farà senz’altro ballare a qualsiasi momento ! Possiamo goderci questo formidabile trio sia in un formato tranquillo cocktail, sia in versione festivo con una batteria completa, il basso et le tastiere, per movimentare la pista da ballo ancora di più!</description>
+    </item>
+    
+  </channel>
+</rss>
